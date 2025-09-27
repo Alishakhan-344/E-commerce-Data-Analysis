@@ -1,4 +1,4 @@
-ProductID,ProductName,Category,Price,Rating,NumReviews,StockQuantity,Discount,Sales,DateAdded
+ProductID,Title,Category,Price,Rating,NumReviews,StockQuantity,Discount,Sales,DateAdded
 1,Headphones,Electronics,400.31,1.7,3772,20,0.08,466,2023-11-08
 2,Headphones,Electronics,235.03,2.3,2919,663,0.33,1332,2023-09-26
 3,Smartwatch,Electronics,417.9,1.8,1184,459,0.31,252,2023-10-18
